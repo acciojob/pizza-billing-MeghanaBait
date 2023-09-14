@@ -18,7 +18,7 @@ public class Pizza {
         this.addExtraCheese = false;
         this.addExtraToppings = false;
         this.addedPaperBag = false;
-        this.bill = "Base Price Of The Pizza:"+this.price+"\n";
+        this.bill = "Base Price Of The Pizza: "+this.price+"\n";
     }
 
     public int getPrice(){
